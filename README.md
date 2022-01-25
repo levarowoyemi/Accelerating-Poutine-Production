@@ -36,7 +36,9 @@ The part that will be costly to maintain in the test suite would be making sure 
 
 I did not include GraphQL/gRPC in this project, as I have yet to get myself familiar with these technologies. I've already taken a look at GraphQL and will be using it in the near future. As it has become an important and popular tool to use in the development process.
 
-### Using The Text Editor?
-1. To get the app running in the browser while using a text editor, you will need to use "npm start".
-2. To add any missing packages/dependancies, you will need to use "npm install".
-3. To run the test suite you will need to use "npm test".
+### Using The Text Editor? 
+1. Unzip the src.zip, and public.zip folders.
+2. Open the command line
+3. To add any missing packages/dependancies, you will need to type "npm install".
+4. To get the app running in the browser while using a text editor, you will need to type "npm start".
+5. To run the test suite you will need to type "npm test".
