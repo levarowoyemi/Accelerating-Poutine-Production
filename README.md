@@ -35,3 +35,7 @@ The part that will be costly to maintain in the test suite would be making sure 
 ### Pick GraphQL/gRPC or other non-RESTful API format to streamline part of the process and explain your choices:
 
 I did not include GraphQL/gRPC in this project, as I have yet to get myself more familiar with these technologies. I've already taken a look at GraphQL and will be using it in the near future. As it has become an important and popular tool to use in the development process.
+
+### Using The Text Editor?
+1. To get it working while using a text editor, you will need to use "npm init" .
+2. To run the test suite you will need to use "npm test".
