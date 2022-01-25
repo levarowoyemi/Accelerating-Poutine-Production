@@ -1,0 +1,84 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add --dev babel-jest @babel-jest @babel/core @babel/preset-env
+
+PATH: 
+  C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Theme Kit;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Levar\AppData\Local\Microsoft\WindowsApps;C:\Users\Levar\AppData\Local\atom\bin;C:\Users\Levar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Levar\AppData\Local\Microsoft\WindowsApps;C:\Users\Levar\AppData\Local\Yarn\bin;C:\Program Files\Theme Kit;C:\Users\Levar\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.0
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/@babel-jest: Request "https://registry.yarnpkg.com/@babel-jest" returned a 405
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:66093:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:140727:22)
+      at Request.emit (node:events:390:28)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141699:10)
+      at Request.emit (node:events:390:28)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:141621:12)
+      at Object.onceWrapper (node:events:509:28)
+      at IncomingMessage.emit (node:events:402:35)
+      at endReadableNT (node:internal/streams/readable:1343:12)
+      at processTicksAndRejections (node:internal/process/task_queues:83:21)
+
+npm manifest: 
+  {
+    "name": "my-app",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@headlessui/react": "^1.4.3",
+      "@heroicons/react": "^1.0.5",
+      "@testing-library/jest-dom": "^5.16.1",
+      "@testing-library/react": "^12.1.2",
+      "@testing-library/user-event": "^13.5.0",
+      "axios": "^0.25.0",
+      "gsap": "^3.9.1",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-router-dom": "^6.2.1",
+      "react-scripts": "5.0.0",
+      "web-vitals": "^2.1.3"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "jest",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    },
+    "devDependencies": {
+      "autoprefixer": "^10.4.2",
+      "jest": "^27.4.7",
+      "postcss": "^8.4.5",
+      "tailwindcss": "^3.0.13"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
