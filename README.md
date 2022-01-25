@@ -2,7 +2,7 @@
 
 Below is a list of all the technologies I used to build this app:
 
-- React
+- React.js
 - Tailwinds CSS
 - GSAP animations library
 - Axios HTTP client library
