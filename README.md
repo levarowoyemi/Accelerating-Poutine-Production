@@ -8,7 +8,7 @@ Below is a list of all the technologies I used to build this app:
 - Axios HTTP client library
 - Jest Testing Framework
 
-I wasn't sure what the projects were asking for at first. I pretty much flipped a coin, and randomly selected whatever project I clicked on. I choose Accelerating Poutine Production.
+I wasn't sure what the projects were asking for at first. I randomly selected a project. I clicked on, and choose Accelerating Poutine Production.
 
 I focused on the design first, as it gave me time to think about the logic. After completing the design, I had a better idea on what the project was asking for. I tried my best to fullfill all that is needed for this web app, and to interpret what's needed for the app to function, and I hope that my work is ok.
 
