@@ -41,4 +41,4 @@ I did not include GraphQL/gRPC in this project, as I have yet to get myself fami
 2. Open the command line. Browse into folder containing the projects' files.
 3. First, to add missing packages/dependancies, you will need to type "npm install".
 4. To get the app running in the browser while using a text editor, in the command line you will need to type "npm start".
-5. To run the test suite you will need to type "npm test".
+5. To run the test suite, in the command line you will need to type "npm test".
