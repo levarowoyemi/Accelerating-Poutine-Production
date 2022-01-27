@@ -10,7 +10,7 @@ Below is a list of all the technologies I used to build this app:
 - Axios HTTP client library
 - Jest Testing Framework
 
-I used React.js but I believe regular HTML and CSS would have been just fine. I made the API remote, but I made one local as well just to show whats in the schema.
+I used React.js but I believe regular HTML, CSS and JavaScript would have been just fine. I made the API remote, but I made one local as well just to show whats in the schema.
 
 I wasn't sure what the projects were asking for at first. I randomly selected a project. I clicked on, and choose Accelerating Poutine Production.
 
