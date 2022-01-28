@@ -22,7 +22,7 @@ I used jsonlint.com JSON linting tool, to make sure the JSON in the API is in va
 
 For the components, I made the background all one component, and I made a component for each of the robots. The robot components consists of, the robot, the kitchen item beside the robot, and the button underneath them.
 
-I have hosted this web app here: https://accelerating-poutine-production.netlify.app/
+I have hosted this web app on Netlify and you can view it here: https://accelerating-poutine-production.netlify.app/
 
 ## Bonus/optional
 
