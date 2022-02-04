@@ -32,7 +32,7 @@ The business critical parts of the application are the API data source. This is 
 
 The technical part is the simple animations which interacts with the user and keeps them engaged. The UI/UX design is also technical, giving the user a user-friendly experience, that is accessible, simple to navigate, and easy to understand. Making the site functional and usable.
 
-The the test suite is also a technical part of the application. It allows for a new person to be able to figure out how the application works, add new functionality and maintain the code. That way if the code needs to be refactored, the test suite will ensure the web application works the way it's intended.
+The test suite is also a technical part of the application. It allows for a new person to be able to figure out how the application works, add new functionality and maintain the code. That way if the code needs to be refactored, the test suite will ensure the web application works the way it's intended.
 
 ### Identify the part that will be costly to maintain in your test suite, and propose solutions:
 
